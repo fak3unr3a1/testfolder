@@ -1,1 +1,0 @@
-print("Damn Glynn you are a G")
